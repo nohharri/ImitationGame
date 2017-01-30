@@ -30,3 +30,5 @@ new
 * This number will be how the game is played through.
 * Due to the prototypical state of this project, there is no database storing this information. This is all done through a JSON file. Three users must be manually entered to play. ./variables.json stores this information.
 * Users must also be registered by their caller ID in order to play. Contact nohharri@umich.edu if you would like to be added to this list with your phone number. You will be sent a validation code.
+
+https://www.twilio.com/console/phone-numbers/verified
